@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pet-shop/static/css/main.3b960a35.css",
+    "main.js": "/pet-shop/static/js/main.cf678c08.js",
+    "static/js/787.349b0e60.chunk.js": "/pet-shop/static/js/787.349b0e60.chunk.js",
+    "static/media/offer8.jpg": "/pet-shop/static/media/offer8.26875156a874b478fd93.jpg",
+    "static/media/products12.jpg": "/pet-shop/static/media/products12.096f616f34fcae93e2cb.jpg",
+    "static/media/video.jpg": "/pet-shop/static/media/video.7b8c3b43d6ef5aac5788.jpg",
+    "static/media/products10.jpg": "/pet-shop/static/media/products10.7193fcb77230b8030ef5.jpg",
+    "static/media/banner9.jpg": "/pet-shop/static/media/banner9.691698a73014b8469ab3.jpg",
+    "static/media/products11.jpg": "/pet-shop/static/media/products11.49e4a00ff1096b524bf6.jpg",
+    "static/media/products9.jpg": "/pet-shop/static/media/products9.93637e7c31a3030ad9ef.jpg",
+    "static/media/products17.jpg": "/pet-shop/static/media/products17.ea7503826344c0fdf8e6.jpg",
+    "static/media/products16.jpg": "/pet-shop/static/media/products16.e9d1a14d60eee96e8c5c.jpg",
+    "static/media/banner10.jpg": "/pet-shop/static/media/banner10.6f28f51c3708ca4e7839.jpg",
+    "static/media/offer13.jpg": "/pet-shop/static/media/offer13.de955ce172eb4f68e1ca.jpg",
+    "static/media/products14.jpg": "/pet-shop/static/media/products14.1d8be06653254a8af410.jpg",
+    "static/media/products15.jpg": "/pet-shop/static/media/products15.33d7553835c0246b7732.jpg",
+    "static/media/about1.jpg": "/pet-shop/static/media/about1.c5b29ffa433f19290807.jpg",
+    "static/media/about2.jpg": "/pet-shop/static/media/about2.3bb18500f9d1a974b94a.jpg",
+    "static/media/banner11.jpg": "/pet-shop/static/media/banner11.9dc2ddf0698121109a76.jpg",
+    "static/media/offer12.jpg": "/pet-shop/static/media/offer12.ead15fdec91f8d052814.jpg",
+    "static/media/bg2.jpg": "/pet-shop/static/media/bg2.00fe7a5a365dddce9f49.jpg",
+    "index.html": "/pet-shop/index.html",
+    "main.3b960a35.css.map": "/pet-shop/static/css/main.3b960a35.css.map",
+    "main.cf678c08.js.map": "/pet-shop/static/js/main.cf678c08.js.map",
+    "787.349b0e60.chunk.js.map": "/pet-shop/static/js/787.349b0e60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b960a35.css",
+    "static/js/main.cf678c08.js"
+  ]
+}
