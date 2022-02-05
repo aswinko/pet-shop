@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pet-shop/static/css/main.3fed5415.css",
-    "main.js": "/pet-shop/static/js/main.01c87f3d.js",
+    "main.js": "/pet-shop/static/js/main.6fbdeed9.js",
     "static/js/787.349b0e60.chunk.js": "/pet-shop/static/js/787.349b0e60.chunk.js",
     "static/media/offer8.jpg": "/pet-shop/static/media/offer8.26875156a874b478fd93.jpg",
     "static/media/products12.jpg": "/pet-shop/static/media/products12.096f616f34fcae93e2cb.jpg",
@@ -22,11 +22,11 @@
     "static/media/offer12.jpg": "/pet-shop/static/media/offer12.ead15fdec91f8d052814.jpg",
     "index.html": "/pet-shop/index.html",
     "main.3fed5415.css.map": "/pet-shop/static/css/main.3fed5415.css.map",
-    "main.01c87f3d.js.map": "/pet-shop/static/js/main.01c87f3d.js.map",
+    "main.6fbdeed9.js.map": "/pet-shop/static/js/main.6fbdeed9.js.map",
     "787.349b0e60.chunk.js.map": "/pet-shop/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fed5415.css",
-    "static/js/main.01c87f3d.js"
+    "static/js/main.6fbdeed9.js"
   ]
 }
